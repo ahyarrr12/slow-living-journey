@@ -27,11 +27,7 @@ Pelajari dasar-dasar HTML sebagai fondasi dalam membangun struktur halaman web.
 * Mampu menggunakan elemen semantik HTML5.
 
 📄 Dokumentasi:
-
-```text
-/html/html.md
-```
-
+| HTML Fundamentals | [Open](./html/html.md) |
 ---
 
 ## 2️⃣ CSS Fundamentals
@@ -55,10 +51,7 @@ Pelajari CSS untuk mempercantik tampilan website dan membuat layout yang respons
 * Mampu membuat website responsif.
 
 📄 Dokumentasi:
-
-```text
-/css/css.md
-```
+| CSS Fundamentals | [Open](./css/css.md) |
 
 ---
 
@@ -86,10 +79,8 @@ Pelajari JavaScript modern untuk membuat website yang interaktif.
 * Mampu membuat aplikasi web sederhana.
 
 📄 Dokumentasi:
+| JavaScript ES6 | [Open](./JS%20Vanilla%20ES6/JSES6.md) |
 
-```text
-/JS Vanilla ES6/JSES6.md
-```
 
 ---
 
